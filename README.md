@@ -1,14 +1,29 @@
-# Prediccion_Precio_Casas
-Prediccion de Precios de Casas
+# Predicción de Precios de Viviendas con Machine Learning
 
-Modelo Machine Learning
+Este es un proyecto de machine learning que utiliza un modelo de regresión lineal para predecir los precios de las viviendas en función de diversas características.
 
-En este proyecto, desarrollé un modelo de Machine Learning para predecir el precio de las casas en California. El modelo se entrenó con un conjunto de datos de California Housing está disponible en la biblioteca scikit-learn.
+## Descripción
 
-Los resultados del modelo muestran una alta precisión, con un R2 de 0.6045. Esto significa que el modelo puede explicar 60.45% de la variación en el precio de las casas.
-El modelo tiene varias aplicaciones potenciales, como:
-Ayudar a los compradores a estimar el valor de una propiedad antes de hacer una oferta.
-Asesorar a los vendedores sobre el precio de venta adecuado para su casa.
-Brindar información a los inversores sobre el potencial de retorno de una inversión inmobiliaria.
-¡Estoy emocionado de compartir este proyecto con la comunidad de LinkedIn! Si tiene alguna pregunta o desea obtener más información, no dude en contactarme.
-hashtag#machinelearning hashtag#predicciondeprecios hashtag#inteligenciaartificial hashtag#cienciadedatos hashtag#python
+El objetivo de este proyecto es desarrollar un modelo de machine learning que pueda predecir los precios de las viviendas utilizando datos históricos. El modelo se construye utilizando el conjunto de datos de viviendas de California, que contiene diversas características de las viviendas, como el número de habitaciones, la ubicación, la proximidad a servicios y más.
+
+## Contenido del Repositorio
+
+- `prediccion_precios_viviendas.ipynb`: Jupyter Notebook que contiene el código fuente del proyecto, incluyendo la carga de datos, preprocesamiento, entrenamiento del modelo y evaluación.
+- `README.md`: Este archivo que proporciona información sobre el proyecto y cómo utilizarlo.
+- `LICENSE`: Licencia de código abierto que indica los términos de uso del código.
+
+## Instalación
+
+Para ejecutar el código de este proyecto, es necesario tener instalado Python 3 junto con las bibliotecas de Python especificadas en el archivo `requirements.txt`. Puedes instalar estas bibliotecas utilizando pip:
+
+
+## Uso
+
+1. Clona este repositorio en tu máquina local.
+2. Abre el archivo `prediccion_precios_viviendas.ipynb` en Jupyter Notebook.
+3. Sigue las instrucciones dentro del notebook para cargar los datos, entrenar el modelo y realizar predicciones.
+4. ¡Disfruta explorando y aprendiendo sobre la predicción de precios de viviendas!
+
+## Contribución
+
+Las contribuciones son bienvenidas. Si tienes sugerencias de mejora, por favor abre un nuevo problema o envía una solicitud de extracción con tus cambios propuestos.
